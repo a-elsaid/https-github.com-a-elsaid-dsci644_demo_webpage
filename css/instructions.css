@@ -1,0 +1,27 @@
+.github-instructions-box {
+  background-color: #eef6ff;
+  border-left: 6px solid #2b7cff;
+  padding: 25px;
+  margin: 40px 0;
+  border-radius: 8px;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+.github-instructions-box h2 {
+  color: #1a4fbf;
+  font-weight: bold;
+}
+
+.github-instructions-box code {
+  background-color: #f4f4f4;
+  padding: 3px 6px;
+  border-radius: 4px;
+}
+
+.github-instructions-box pre {
+  background: #222;
+  color: #00ff90;
+  padding: 12px;
+  border-radius: 6px;
+}
